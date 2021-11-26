@@ -9,5 +9,6 @@ import java.util.Set;
 public class Demo {
     public static void main(String[] args) throws IOException, ClassNotFoundException {
         System.out.println("Java");
+        System.out.println("hot fix change");
     }
 }
